@@ -1,0 +1,232 @@
+{
+	"activities": [
+		{
+			"attribute": "{\"80\": {\"1\": 35.0, \"0\": 0}, \"35\": {\"1\": 10.0, \"0\": 0}, \"60\": {\"1\": 25.0, \"0\": 0}}",
+			"description": "满35减10，满60减25，满80减35",
+			"icon_color": "f07373",
+			"icon_name": "满减",
+			"id": 1018717610,
+			"is_exclusive_with_food_activity": true,
+			"name": "尊宝",
+			"tips": "满35减10，满60减25，满80减35",
+			"type": 102
+		}, {
+			"description": "比萨特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 362319746,
+			"name": "比萨特惠",
+			"tips": "比萨特惠"
+		}, {
+			"attribute": "17.0",
+			"description": "新用户下单立减17元(不与其它活动同享)",
+			"icon_color": "70bc46",
+			"icon_name": "首单",
+			"id": 806202794,
+			"is_exclusive_with_food_activity": true,
+			"name": "新用户立减(不与其他活动共享)",
+			"tips": "新用户下单立减17元(不与其它活动同享)",
+			"type": 103
+		}, {
+			"description": "10寸比萨特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 356751882,
+			"name": "10寸比萨特惠",
+			"tips": "10寸比萨特惠"
+		}, {
+			"description": "5折大回馈！",
+			"icon_color": "f07373",
+			"icon_name": "折扣",
+			"id": 355762434,
+			"name": "5折大回馈！",
+			"tips": "5折大回馈！"
+		}, {
+			"description": "10寸比萨特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 355757970,
+			"name": "10寸比萨特惠",
+			"tips": "10寸比萨特惠"
+		}, {
+			"description": "榴莲比萨套餐特惠",
+			"icon_color": "f07373",
+			"icon_name": "折扣",
+			"id": 355748202,
+			"name": "榴莲比萨套餐特惠",
+			"tips": "榴莲比萨套餐特惠"
+		}, {
+			"description": "套餐特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 355732986,
+			"name": "套餐特惠",
+			"tips": "套餐特惠"
+		}, {
+			"description": "比萨特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 328129706,
+			"name": "比萨特惠",
+			"tips": "比萨特惠"
+		}, {
+			"description": "榴莲比萨特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 328129242,
+			"name": "榴莲比萨特惠",
+			"tips": "榴莲比萨特惠"
+		}, {
+			"description": "18元特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 317955546,
+			"name": "18元特惠",
+			"tips": "18元特惠"
+		}, {
+			"description": "超级榴莲",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 316037690,
+			"name": "超级榴莲",
+			"tips": "超级榴莲"
+		}, {
+			"description": "10寸比萨特惠",
+			"icon_color": "f1884f",
+			"icon_name": "特价",
+			"id": 315635530,
+			"name": "10寸比萨特惠",
+			"tips": "10寸比萨特惠"
+		}, {
+			"description": "实付69元返10元代金券",
+			"icon_color": "ff7239",
+			"icon_name": "返券",
+			"id": -1,
+			"name": "下单返代金券",
+			"tips": "实付69元返10元代金券"
+		}
+	],
+	"address": "深圳市宝安区西乡街道后瑞社区新瑞路17号",
+	"albums": [
+		{
+			"count": 1,
+			"cover_image_hash": "a5193e3f951d69007b5ed286685cd389jpeg",
+			"name": "门面",
+			"photos": [
+				{
+					"description": "门头照",
+					"id": 7207331,
+					"image_hash": "a5193e3f951d69007b5ed286685cd389jpeg",
+					"type": "FRONT"
+				}
+			]
+		}, {
+			"count": 1,
+			"cover_image_hash": "227bdcaf784bde6a934ad118fafc722cjpeg",
+			"name": "大堂",
+			"photos": [
+				{
+					"description": "店内照",
+					"id": 7207332,
+					"image_hash": "227bdcaf784bde6a934ad118fafc722cjpeg",
+					"type": "HALL"
+				}
+			]
+		}
+	],
+	"authentic_id": 5372716362666220,
+	"delivery_mode": {
+		"border": "FFFFFF",
+		"color": "",
+		"id": 2,
+		"is_solid": true,
+		"text": "商家配送",
+		"text_color": "FFFFFF"
+	},
+	"description": "",
+	"distance": 947,
+	"favored": false,
+	"flavors": [
+		{
+			"id": 234,
+			"name": "炸鸡炸串"
+		}, {
+			"id": 211,
+			"name": "披萨意面"
+		}
+	],
+	"float_delivery_fee": 5,
+	"float_minimum_order_amount": 30,
+	"has_story": false,
+	"id": 155686820,
+	"image_path": "20ba157b6ac207257233f2c4d12260ccpng",
+	"is_new": false,
+	"is_premium": true,
+	"is_stock_empty": 0,
+	"is_valid": 1,
+	"latitude": 22.631299,
+	"longitude": 113.834597,
+	"max_applied_quantity_per_order": -1,
+	"name": "尊宝比萨（后瑞店）",
+	"next_business_time": "",
+	"only_use_poi": false,
+	"opening_hours": [
+		"09:10/22:45"
+	],
+	"order_lead_time": 38,
+	"phone": "27330125",
+	"piecewise_agent_fee": {
+		"description": "配送费￥5",
+		"extra_fee": 0,
+		"is_extra": false,
+		"rules": [
+			{
+				"fee": 5,
+				"price": 30
+			}
+		],
+		"tips": "配送费￥5"
+	},
+	"platform": 0,
+	"posters": [
+		{
+			"id": 697033,
+			"image_hash": "f15aa300f57e612bcd76277d162d8211png",
+			"name": "更多优惠",
+			"url": "eleme://restaurant_promotion?restaurant_id=155686820&banner_id=697033"
+		}
+	],
+	"promotion_info": "尊敬的顾客你好！用餐高峰期且天气恶劣的情况下，外送时间将有可能会延迟，为不影响您的用餐时间，请提前下单，给您带来的不便，敬请谅解！",
+	"qualification": {
+		"link": "https://h5.ele.me/shop/certification/#/?restaurant_id=5372716362666220"
+	},
+	"rating": 5,
+	"rating_count": 94,
+	"recent_order_num": 411,
+	"recommend": {
+		"color": "#e8470b",
+		"image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+		"is_ad": false,
+		"reason": "口碑人气好店"
+	},
+	"recommend_reasons": [],
+	"regular_customer_count": 0,
+	"scheme": "eleme://catering?restaurant_id=155686820",
+	"shop_sign": {
+		"brand_story": "",
+		"image_hash": "03929df476b455e5a4d80b69f660422epng"
+	},
+	"status": 1,
+	"support_tags": [],
+	"supports": [
+		{
+			"description": "该商家支持开发票，请在下单时填写好发票抬头",
+			"icon_color": "999999",
+			"icon_name": "票",
+			"id": 4,
+			"name": "开发票",
+			"two_characters_icon_name": "发票"
+		}
+	],
+	"type": 0
+}
